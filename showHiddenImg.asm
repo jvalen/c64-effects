@@ -1,5 +1,5 @@
         !cpu 6502
-        !to "build/demo.prg",cbm
+        !to "build/show_hidden_img.prg",cbm
 
         ; Allow us to run the program just launching 'RUN'
         * = $0801
